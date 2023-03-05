@@ -1,0 +1,9 @@
+## Hardhat
+hardhat/ERC20/node_modules
+hardhat/ERC721/node_modules
+hardhat/ERC777/node_modules
+hardhat/ERC1155/node_modules
+hardhat/Upgradeable/node_modules
+
+## Truffle
+truffle/ERC20/node_modules
